@@ -19,11 +19,9 @@
       raise TypeError
     return a + b
     ```
-<<<<<<< HEAD
-1. Implement Junit
+1. Read books
 2. Use Scrum
 3. Work in other project and learn new skill
-=======
-1. Implement unittest
-1. Use Agile Development Process
->>>>>>> correction
+4. Implement unittest
+5. Use Agile Development Process
+
